@@ -1,0 +1,13 @@
+.header {
+	grid-area: h;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+
+.header img {
+    width: 50px;
+    padding: 10px;
+    border-radius: 20px;
+}
